@@ -9,4 +9,4 @@ Guide de lancement via Android Studio :
 
 4. Exécuter le fichier `main.dart` 
 
-<p align="center"><img src="./demo.gif?raw=true" width="1080" height="1800"></p>
+<p align="center"><img src="./demo.gif?raw=true" width="1080" height="1300"></p>
