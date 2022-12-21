@@ -7,6 +7,6 @@ Guide de lancement via Android Studio :
 
 3. Créer un AVD (ou utiliser le navigateur Chrome) et choisissez de préférence Pixel 5 avec l'API Lollipop 22 d'Android
 
-4. Exécuter le fichier `main.dart` 
+4. Exécuter le fichier main.dart se trouvant à l'adresse suivante : `TP1_Flutter_DabachilRakkaoui/lib/`
 
 <p align="center"><img src="./demo.gif?raw=true" width="400" height="850"></p>
